@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TPlabo2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TPlabo2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TPlabo2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="claseArchivoCategoria.cpp" />
+		<Unit filename="claseArchivoCategoria.h" />
+		<Unit filename="claseArchivoClientes.cpp" />
+		<Unit filename="claseArchivoClientes.h" />
+		<Unit filename="claseArchivoCompras.cpp" />
+		<Unit filename="claseArchivoCompras.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseArchivoDetalle.cpp" />
+		<Unit filename="claseArchivoDetalle.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseArchivoProducto.cpp" />
+		<Unit filename="claseArchivoProductos.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseArchivoVentas.cpp" />
+		<Unit filename="claseArchivoVentas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseCategoria.cpp" />
+		<Unit filename="claseCategoria.h" />
+		<Unit filename="claseCategoriaManager.cpp" />
+		<Unit filename="claseCategoriaManager.h" />
+		<Unit filename="claseClientes.cpp" />
+		<Unit filename="claseClientes.h" />
+		<Unit filename="claseClientesManager.cpp" />
+		<Unit filename="claseClientesManager.h" />
+		<Unit filename="claseCompras.cpp" />
+		<Unit filename="claseCompras.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseComprasManager.cpp" />
+		<Unit filename="claseComprasManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseDetalle.cpp" />
+		<Unit filename="claseDetalle.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseDetalleManager.cpp" />
+		<Unit filename="claseDetalleManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseFecha.cpp" />
+		<Unit filename="claseFecha.h" />
+		<Unit filename="claseProductos.cpp" />
+		<Unit filename="claseProductos.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseProductosManager.cpp" />
+		<Unit filename="claseProductosManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseVentas.cpp" />
+		<Unit filename="claseVentas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="claseVentasManager.cpp" />
+		<Unit filename="claseVentasManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="menuPrincipal.cpp" />
+		<Unit filename="menuPrincipal.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

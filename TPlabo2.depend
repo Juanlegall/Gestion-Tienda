@@ -1,0 +1,1834 @@
+# depslib dependency file v1.0
+1718573822 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\main.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718595175 c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\menuprincipal.h
+	"claseClientesManager.h"
+
+1718596907 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718595018 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718593611 c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\clasefecha.h
+
+1718596349 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\claseclientes.cpp
+	"claseClientes.h"
+	<iostream>
+
+1718597726 c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718597663 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1718597663 c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1718597663 source:c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1718596907 c:\program files\codeblocks\mingw\utn 2024 semestre 1\registrotienda2\tplabo2\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1719174196 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1718639224 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719174196 c:\users\dell\documents\parcial 2 labo\tplabo2\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1719174196 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719174196 c:\users\dell\documents\parcial 2 labo\tplabo2\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718595020 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718593612 c:\users\dell\documents\parcial 2 labo\tplabo2\clasefecha.h
+
+1718682431 source:c:\users\dell\documents\parcial 2 labo\tplabo2\main.cpp
+	"menuPrincipal.h"
+
+1719172431 c:\users\dell\documents\parcial 2 labo\tplabo2\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1718682437 source:c:\users\dell\documents\parcial 2 labo\tplabo2\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1719174226 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1718645008 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\dell\documents\parcial 2 labo\tplabo2\claseproductos.h
+
+1718645646 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719173879 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719173879 c:\users\dell\documents\parcial 2 labo\tplabo2\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718634760 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1718639224 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1718681407 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718645008 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseproductos.h
+
+1718641236 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1718676955 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1718676955 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718595020 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718593612 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasefecha.h
+
+1718645646 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718681913 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1718681688 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718682431 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\main.cpp
+	"menuPrincipal.h"
+
+1718682431 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+
+1718682437 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718681814 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681806 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681607 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasecategoria.h
+	<cstring>
+
+1718681593 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1718682431 source:c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1718682431 c:\users\gabriel\downloads\tplabo2 17-6\tplabo2\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1718681814 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681806 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681607 c:\users\dell\documents\parcial 2 labo\tplabo2\clasecategoria.h
+	<cstring>
+
+1718681593 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1718682431 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1718682431 c:\users\dell\documents\parcial 2 labo\tplabo2\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1718824158 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1718824158 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822682 c:\users\dell\documents\parcial 2 labo\tplabo2\clasecompras.h
+
+1718824190 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718825801 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1718825832 c:\users\dell\documents\parcial 2 labo\tplabo2\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718827463 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1718827463 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902534 c:\users\dell\documents\parcial 2 labo\tplabo2\clasedetalle.h
+
+1718902534 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718899699 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1718899664 c:\users\dell\documents\parcial 2 labo\tplabo2\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718903912 source:c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1718903973 c:\users\dell\documents\parcial 2 labo\tplabo2\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1718904684 c:\users\dell\documents\parcial 2 labo\tplabo2\claseventas.h
+	"claseFecha.h"
+
+1718904707 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718904776 source:c:\users\dell\documents\parcial 2 labo\tplabo2\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1718903912 c:\users\dell\documents\parcial 2 labo\tplabo2\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718681816 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681808 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecategoria.h
+	<cstring>
+
+1719174198 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1718639224 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719174198 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718824160 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1718824160 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecompras.h
+
+1718827464 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1718827464 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasedetalle.h
+
+1718645008 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseproductos.h
+
+1718903914 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1718903974 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1718904686 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasefecha.h
+
+1719255669 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719255732 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719255675 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240964 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719251995 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719251995 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719252334 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719252334 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718902536 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1719252461 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719252461 c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718595020 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718645646 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719252570 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719252570 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718904708 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1719252617 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719252617 c:\users\julian\desktop\tplabo2 23-6\tplabo2\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\julian\desktop\tplabo2 23-6\tplabo2\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719252640 source:c:\users\julian\desktop\tplabo2 23-6\tplabo2\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718681816 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681808 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecategoria.h
+	<cstring>
+
+1719281773 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719281760 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719174198 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718824160 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1718824160 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecompras.h
+
+1718827464 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1718827464 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasedetalle.h
+
+1718645008 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseproductos.h
+
+1718903914 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1718903974 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1718904686 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasefecha.h
+
+1719255669 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719255732 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719255675 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240964 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719279227 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281760 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719252334 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719252334 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718902536 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1719252461 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719252461 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718595020 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718645646 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719252570 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719252570 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718904708 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1719252617 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719252617 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719280990 source:c:\users\gabriel\downloads\tplabo2 23-6\tplabo2\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718681816 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681808 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecategoria.h
+	<cstring>
+
+1719340145 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719339971 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334987 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718824160 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1718824160 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecompras.h
+
+1718827464 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1718827464 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasedetalle.h
+
+1718645008 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseproductos.h
+
+1718903914 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1718903974 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1718904686 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasefecha.h
+
+1719255669 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719255732 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719255675 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240964 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719339513 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281760 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719252334 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719252334 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718902536 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1719252461 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719252461 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718595020 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1718645646 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719252570 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719252570 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718904708 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1719252617 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719252617 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719281854 source:c:\users\julian\desktop\tplabo2-2406\tplabo2-2406\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1718681816 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1718681808 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecategoria.h
+	<cstring>
+
+1719340145 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719339971 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334987 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1718824160 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1718824160 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecompras.h
+
+1718827464 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1718827464 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasedetalle.h
+
+1718645008 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1718645440 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseproductos.h
+
+1718903914 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1718903974 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1719341507 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasefecha.h
+
+1719255669 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719255732 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719255675 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240964 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719339513 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281760 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719252334 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719252334 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1718902536 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1719252461 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719252461 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718595020 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1719341120 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719252570 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719341889 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719341717 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1719252617 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719252617 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719341884 source:c:\users\gabriel\downloads\tplabo2-2406\tplabo2-2406\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1719410071 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1719410071 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecategoria.h
+	<cstring>
+
+1719408020 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719408098 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334987 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1719410131 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1719408832 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecompras.h
+
+1719409315 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1719409315 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasedetalle.h
+
+1719409468 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1719409468 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseproductos.h
+
+1719410205 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1719408098 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1719341507 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasefecha.h
+
+1719255669 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719410238 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719410071 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240964 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719339513 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281760 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719410265 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719409708 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1718902536 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+
+1718595020 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+
+1719341120 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719410273 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719409708 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719341717 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1719410290 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719408378 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719409708 c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719341884 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1719410256 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2406\tplabo2-2406\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719429212 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1719429212 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecategoria.h
+	<cstring>
+
+1719428630 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719428660 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334988 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1719429396 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1719428874 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecompras.h
+
+1719429278 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1719429278 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1718902536 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasedetalle.h
+
+1719428956 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1719428956 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseproductos.h
+
+1719429008 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1719429008 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1719341508 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasefecha.h
+
+1719255670 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719426742 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719410072 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240966 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719452328 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281762 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719412146 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719409710 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719430686 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseArchivoVentas.h"
+	"claseArchivoProductos.h"
+
+1719426742 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719409710 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719412980 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+	"claseArchivoCategoria.h"
+
+1719452023 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719409710 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719430134 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+	"claseArchivoClientes.h"
+
+1719427578 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719408380 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719430686 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1719411266 source:c:\users\julian\desktop\tplabo2-2606\tplabo2-2406\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+	<ctime>
+
+1719429212 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1719429212 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecategoria.h
+	<cstring>
+
+1719428630 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719428660 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334988 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1719429396 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1719428874 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecompras.h
+
+1719429278 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1719429278 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1719460945 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasedetalle.h
+
+1719458615 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1719428956 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseproductos.h
+
+1719429008 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1719429008 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1719341508 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasefecha.h
+
+1719255670 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719426742 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719410072 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240966 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719452328 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281762 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719412146 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719409710 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719460945 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseProductos.h"
+	"claseArchivoDetalle.h"
+	"claseArchivoVentas.h"
+	"claseArchivoProductos.h"
+
+1719460945 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719460990 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719411266 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+	<ctime>
+
+1719412980 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+	"claseArchivoCategoria.h"
+
+1719452023 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719409710 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719430134 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+	"claseArchivoClientes.h"
+
+1719427578 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719408380 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719430686 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2406\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1719429212 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1719429212 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1718681608 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecategoria.h
+	<cstring>
+
+1719428630 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1719428660 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1719334988 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1719429396 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1719428874 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1718822684 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecompras.h
+
+1719429278 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1719429278 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1719460945 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasedetalle.h
+
+1719458615 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1719428956 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1718645326 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseproductos.h
+
+1719429008 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1719429008 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1719341508 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseventas.h
+	"claseFecha.h"
+
+1718593612 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasefecha.h
+
+1719255670 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1719488312 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1719410072 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1719240966 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1719489223 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1719281762 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1718824192 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1719412146 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1719409710 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719460945 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseProductos.h"
+	"claseArchivoDetalle.h"
+	"claseArchivoVentas.h"
+	"claseArchivoProductos.h"
+
+1719488177 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1719488177 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719411266 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+	<ctime>
+
+1719412980 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+	"claseArchivoCategoria.h"
+
+1719489583 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1719409710 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1719430134 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+	"claseArchivoClientes.h"
+
+1719427578 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1719489132 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1718682432 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\main.cpp
+	"menuPrincipal.h"
+
+1719172432 c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1719487957 source:c:\users\dell\documents\parcial 2 labo\tplabo2-2606\tplabo2-2706\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1740578287 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivocategoria.cpp
+	"claseArchivoCategoria.h"
+	<iostream>
+
+1740578287 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivocategoria.h
+	"claseCategoria.h"
+	<cstring>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecategoria.h
+	<cstring>
+
+1740578287 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoclientes.cpp
+	"claseArchivoClientes.h"
+
+1740578287 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoclientes.h
+	"claseClientes.h"
+	<cstdio>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseclientes.h
+	<cstdlib>
+	<cstring>
+
+1740578287 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivocompras.cpp
+	"claseArchivoCompras.h"
+
+1740578287 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivocompras.h
+	"claseCompras.h"
+	<cstdio>
+	<cstring>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecompras.h
+
+1740578287 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivodetalle.cpp
+	"claseArchivoDetalle.h"
+
+1740578287 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivodetalle.h
+	"claseDetalle.h"
+	<cstdio>
+	<cstring>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasedetalle.h
+
+1740578287 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoproducto.cpp
+	"claseArchivoProductos.h"
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoproductos.h
+	"claseProductos.h"
+	<cstdio>
+	<cstring>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseproductos.h
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoventas.cpp
+	"claseArchivoVentas.h"
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasearchivoventas.h
+	"claseVentas.h"
+	<cstdio>
+	<cstring>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseventas.h
+	"claseFecha.h"
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasefecha.h
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecategoria.cpp
+	"claseCategoria.h"
+	"claseArchivoProductos.h"
+	<iostream>
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecategoriamanager.cpp
+	"claseCategoriaManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecategoriamanager.h
+	"claseCategoria.h"
+	"claseArchivoCategoria.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseclientes.cpp
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+	<iostream>
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseclientesmanager.cpp
+	"claseClientesManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseclientesmanager.h
+	"claseClientes.h"
+	"claseArchivoClientes.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecompras.cpp
+	<iostream>
+	<cstring>
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecomprasmanager.cpp
+	"claseComprasManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasecomprasmanager.h
+	"claseCompras.h"
+	"claseArchivoCompras.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasedetalle.cpp
+	<iostream>
+	<cstring>
+	"claseDetalle.h"
+	"claseProductos.h"
+	"claseArchivoDetalle.h"
+	"claseArchivoVentas.h"
+	"claseArchivoProductos.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasedetallemanager.cpp
+	"claseDetalleManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\clasedetallemanager.h
+	"claseDetalle.h"
+	"claseArchivoDetalle.h"
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\clasefecha.cpp
+	"claseFecha.h"
+	<iostream>
+	<ctime>
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseproductos.cpp
+	<iostream>
+	<cstring>
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+	"claseArchivoCategoria.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseproductosmanager.cpp
+	"claseProductosManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseproductosmanager.h
+	"claseProductos.h"
+	"claseArchivoProductos.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseventas.cpp
+	<iostream>
+	<cstring>
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+	"claseArchivoClientes.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\claseventasmanager.cpp
+	"claseVentasManager.h"
+	<iostream>
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\claseventasmanager.h
+	"claseVentas.h"
+	"claseArchivoVentas.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\main.cpp
+	"menuPrincipal.h"
+
+1740578288 c:\users\dell\documents\proyecto c++\tplabo2-2706\menuprincipal.h
+	"claseClientesManager.h"
+	"claseProductosManager.h"
+	"claseCategoriaManager.h"
+	"claseComprasManager.h"
+	"claseVentasManager.h"
+	"claseDetalleManager.h"
+
+1740578288 source:c:\users\dell\documents\proyecto c++\tplabo2-2706\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
