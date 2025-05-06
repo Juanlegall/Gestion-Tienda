@@ -1,0 +1,9 @@
+*.bak
+*.dat
+*.exe
+*.o
+*.obj
+build/
+bin/
+Debug/
+Release/
